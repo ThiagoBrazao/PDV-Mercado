@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icons/atualizar.png</file>
+    <file>icons/atualizar-semfundo.png</file>
+    <file>icons/cadastrar.png</file>
+    <file>icons/cadastrarimg.png</file>
+    <file>icons/cadastrar-img.png</file>
+    <file>icons/cadastrar-semfundo.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/Excluir.png</file>
+    <file>icons/pass.png</file>
+    <file>icons/passwd.png</file>
+    <file>icons/pesquisar.png</file>
+    <file>icons/pesquisar-semfundo.png</file>
+    <file>icons/update.png</file>
+    <file>icons/user.png</file>
+    <file>icons/vendas.png</file>
+  </qresource>
+</RCC>

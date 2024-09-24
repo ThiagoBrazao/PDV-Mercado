@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="principal">
+    <file>icons/vendas.png</file>
+    <file>icons/atualizar.png</file>
+    <file>icons/atualizar-semfundo.png</file>
+    <file>icons/cadastrar.png</file>
+    <file>icons/cadastrar-semfundo.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/Excluir.png</file>
+    <file>icons/pesquisar.png</file>
+    <file>icons/pesquisar-semfundo.png</file>
+    <file>icons/update.png</file>
+    <file>icons/atualizar.png</file>
+    <file>icons/cadastrar.png</file>
+    <file>icons/delete.png</file>
+    <file>icons/Excluir.png</file>
+    <file>icons/pesquisar.png</file>
+    <file>icons/update.png</file>
+  </qresource>
+</RCC>
